@@ -15,7 +15,9 @@
 import pygame, sys, logging, os, time
 from pygame.locals import *
 import random
-  
+
+pygame.init()  
+pygame.mixer.music.load('An_8_Bit_Story.ogg')
 screen=pygame.display.set_mode((640,480),0,32)
 pygame.display.set_caption("カナ　W・A・R・S")
 clock = pygame.time.Clock()        # create pygame clock object
@@ -141,6 +143,7 @@ def main():
     newlevel=True # inicio do jogo, seta a variavel newlevel p true
     countnewlevel= False #eu estou setando muitas variaveis malucas, agora já me perdi todo...
     lastboxditched = []
+    pygame.mixer.music.play(-1,0.0)
     while 1:
 	screen.blit(instruc,(0,0))	
 	screen.blit(background,(88,100))
@@ -236,6 +239,11 @@ def main():
 		danger = placarf.render("DANGER! NO MISTAKES ALLOWED WITH 10+ KANA!", True,(220,0,0))
 		screen.blit(danger,(160,340))
 		if mistake:
+			#deathmusic
+			pygame.mixer.music.stop
+			pygame.mixer.music.load('Masterofpuppets.ogg')
+			pygame.mixer.music.play(0,0.5)
+			pygame.mixer.music.set_endevent()
 			#deathscreen
 			screen.blit(death,(0,0))
 			instructscreen(u"あなたが　死んでいます。",5,0)
@@ -244,9 +252,11 @@ def main():
 			instructscreen("...which is not impressive",5,90)
 			instructscreen("Practice more to suck less.",5,120)
 	  		pygame.display.flip()
-			pygame.time.wait(10000)
-  			exit()
-        allSprites.clear(screen,background)
+			while 1:			
+				for i in pygame.event.get():
+			            if i.type==QUIT or i.type==NOEVENT:
+        	        		exit()
+	allSprites.clear(screen,background)
         allSprites.update()
         allSprites.draw(screen)
         pygame.display.flip()

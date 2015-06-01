@@ -1,4 +1,4 @@
-Kana Wars README
+﻿Kana Wars README
 
 This is a simple game in python using pygame to train kana input. 
 
@@ -23,9 +23,15 @@ http://pygame.org/ftp/pygame-1.9.2a0.win32-py2.7.msi
 
 But other versions will like work too.
 
-2. Copyrights and Other
+2. Credits, copyrights and Other
+
+
 
 This is very anambitious project so everything I did here is free. Probably nobody besides myself will ever know about it.
 
-But I built on the work of others and they might have a problem with it.  Just in case it comes to this: both fonts (cyberbit and japanese gothic) are free, so it should be ok to use them. I used a lot of sample code from others (mostly from pygame page itself) and art from google, only slightly modified with gimp (lower resolution, change alpha layer, that sort of stuff). I
-f you have a problem with any of this and want me to remove something, or want me to give you credit, please email me: mysablehats@gmail.com
+But I built on the work of others and they might have a problem with it.  Just in case it comes to this: both fonts (cyberbit and japanese gothic) are free, so it should be ok to use them. I used a lot of sample code from others (mostly from pygame page itself) and art from google, only slightly modified with gimp (lower resolution, change alpha layer, that sort of stuff).
+The music comes from http://commons.wikimedia.org/ and has the license Creative Commons Attribution-Share Alike 3.0 Unported.
+
+Main song of the game:An_8_Bit_Story.ogg , thanks to Magnus9998, end death, by Master of Puppets cover riff, thanks to Beachcomber. Highscore (still unused) Lilium_Music_Box_(convert).ogg, thanks to Trần Nguyễn Minh Huy.
+
+If you have a problem with any of this and want me to remove something, or want me to give you credit, please email me: mysablehats@gmail.com
