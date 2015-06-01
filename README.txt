@@ -13,10 +13,19 @@ The code is currently very simple, so just copy it and everything should work. T
 
 I assume you will need python and pygame installed on your pc (those are not here).
 
-I've only tested this on my machine with Debian Linux, so there might be some issues with running it on Windows.
+Tested on debian linux and windows 7 64 bit and it is working alright. You need both python 2.7 and pygame available at
 
-2. Other
+https://www.python.org/ftp/python/2.7.10/python-2.7.10.msi
 
-Both fonts (cyberbit and japanese gothic) are free, so it should be ok to use them.
+and
 
-If you have a problem with any of this, please email me: mysablehats@gmail.com
+http://pygame.org/ftp/pygame-1.9.2a0.win32-py2.7.msi
+
+But other versions will like work too.
+
+2. Copyrights and Other
+
+This is very anambitious project so everything I did here is free. Probably nobody besides myself will ever know about it.
+
+But I built on the work of others and they might have a problem with it.  Just in case it comes to this: both fonts (cyberbit and japanese gothic) are free, so it should be ok to use them. I used a lot of sample code from others (mostly from pygame page itself) and art from google, only slightly modified with gimp (lower resolution, change alpha layer, that sort of stuff). I
+f you have a problem with any of this and want me to remove something, or want me to give you credit, please email me: mysablehats@gmail.com
