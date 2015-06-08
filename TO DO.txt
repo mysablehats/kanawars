@@ -1,0 +1,18 @@
+TO DO
+
+1. Mudar definições de teclado se linux ou windows
+1.1 corrigir teclas erradas (shift hack é inaceitável.)
+1.2 mudar para eventos usando keydown ## deixar preparado para composição de teclas! talvez usar ao mesmo tempo get-keypressed com keydown seja o jeito correto; estudar
+2. função para gerar kanas randômicas é separada; assim posso gerar kanas apartir de um arquivo ou texto e fazer o que o cara está teclando ter algum sentido
+3. função de checagem de kanas e remoção tem ordem. Não sei como fazer isso; necessário para remover textos
+4. teclas de composição para conseguir escolher outras kanas. também não sei como fazer isso, talvez tenha que checar o vetor inteiro antes de escolher que kana é pra ser retirada
+4.1 menus! escolher velocidade
+5. arte para entrada e balões de texto -> weird is better.
+6. balões de texto consistente; instruções
+7. história: fazer pós apocaliptico com dr. light falando dentro de uma cápsula.
+8. animações!
+9. outras músicas
+10. level progression. talvez começar com romaji input?
+11. level progression pra kanji
+12. animações, canhoes e reator de fusão
+13. side panel mostrando história sendo lida e aparecendo figuras das coisas que estão sendo lidas com fade in

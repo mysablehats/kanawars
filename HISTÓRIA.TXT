@@ -1,0 +1,103 @@
+História
+
+-> todos os discursos são apresentados por cabeça humana do dr light falando / juntar dr light com talking head do futurama
+
+"Num futuro não apocalíptico, todas as pessoas escolheram viver em ambientes de realidade virtual." mostrar algum equipamento futurista para realidade virtual; copiar nervegear do SAO
+"Nesse ambiente as pessoas poderiam expressar seu eu interior" Mostrar homem unicelho na cama com nerve-gear do lado com fade-in lateral e após um fade-in de outro lado de uma menininha sorridente de anime
+"O mundo rapidamente ficou vazio" Mostrar algum lugar conhecido por ser muito movimentado sem pessoas, ou vários locais com fade-ins
+"Avanços na tecnologia como a criação de usinas de fusão e sistemas inteligentes que necessitavam de pouca intervenção humana tornaram pessoas desnecessárias" fade in de interior complexo de usina com único botão grande 'press this button for start' e funcionário jogando tetris no background
+"Alguns poucos ficaram no mundo para cuidar da infra-estrutura, mas aos poucos também foram desaparecendo" mostrar usinas sem pessoas
+"Em algum tempo uma única usina era responsável por gerar toda a energia do planeta" mostrar usina gigantesca ocupando grande parte do japão aparecendo do ar e inclusive ocupando partes do oceano
+"Tudo funcionou perfeitamente até que um dia...." mostrar imagem no computador 'unable to auto-mode. manual operation engaged'
+"Nossos sistemas interromperam sua existência em realidade virtual porque precisamos de sua ajuda" dr light head
+"para a manutenção da operação manual do reator! Se sua operação for interrompida, toda vida no planeta estará ameaçada!"
+"Algoritmos de inteligência artificial avançadíssimos estão em operação tentando recuperar o sistema automático."
+"Porém enquanto eles não terminam seu auto-diagnóstico precisamos de alguém para realizar a operação manual do sistema." mostrar tela de inicialização do windows com checkdisk rodando
+"Esse reator de fusão funciona através do princípio de aniquilação de kanas, sobre o qual quase nada se sabe"
+"Sabemos apenas que é preciso colidir uma Kana com sua Anti-Kana complementar e que isso ocasiona sua aniquilação com liberação de enormes quantidades de energia!"
+"Precisamos de sua ajuda para identificar as ... Kanas"
+"Nossos algoritmos calcularam que você é a pessoa mais indicada para auxiliar na operação manual do reator!"
+"...eles concluiram isso devido ao seu interesse pelas antigas, desconhecidas e esquecidas artes de anime, mangá e sobretudo HENTAI"
+"em que você consta nos nossos registros como ÁVIDO leitor!"
+<<<<<<<<<aqui considerar um HISTORY-MODE COM INTERAÇÃO DO USUÁRIO
+"Gostariamos inclusive que você compartilhasse seus arquivos pessoais desse HENTAI..."
+"...para podermos saber do que se trata e para que outros pudessem estudar e que não dependessemos apenas dos seus conhecimentos"
+user-menu apresenta opções para resposta: " É uma mistura de muito difícil de abilidades mentais e não imagino que pessoas com QI inferior consigam compreendê-las"
+"HENTAI? Eu não tenho nenhum HENTAI!!!"
+respostas do sistema. Se "QI inferior": "Humm, compreendo. Bom, falhas do sistemas são tão raras que podemos então preservá-lo como cabeça em virtua-jarr só para isso"
+Se "Hentai": "Humm, estranho, no nosso sistema consta que você tem 2.223 TB de HENTAI no seu drive encriptado, bom alguém deve ter se confundido"
+<<<<<<<<<
+"Precisamos que você identifique as Kanas e realize as colisões de KANA em tempo para gerar energia para o reator de fusão"
+Estágio 0:
+"Nesse estágio você vai realizar fusões de HIRAGANA"
+"Identifique a anti-HIRAGANA emitida pelo anti-particle-multiple-crazy-nonsense-generator"
+"E emita uma HIRAGANA complementar"
+"Geração de fusões erradas danificam o reator."
+"Se o reator ficar muito danificado é necessário interromper as operações para reparo."
+"À medida que você for acertando, o número de HIRAGANAS disponíveis para fusão aumentará, disponibilizando maior potência ao reator"
+"Preste atenção no medidor embaixo para não ficar mais tempo do que o necessário em cada etapa"
+progressão de nível libera outras hiraganas no teclado
+provavelmente tem que mostrar um teclado e ir piscando o que tá liberado
+velocidade atingida mostra level clear com número de estrelas
+barra embaixo da tela com progressão de checkdisk mostrando algo tipo, DRIVE-C e "press spacebar to continue"
+Estágio 1:
+"É pior do que pensávamos" 
+"Os métodos de Inteligência Artificial são muito numerosos" Mostar imagem do checkdisk com algo do tipo "Drive 1 of 433. Checkin drive 2..."
+"Precisamos que você realize o próximo passo para liberar mais energia."
+"Aumento do numero possiveis de kanas proporcionam maior produção de energia"
+Composição com hakuten e a bolinha aquela, mostrar como colocar kanas
+Estágio 2:
+"Kanas maiores liberam mais energia, agora vamos permiter que o anti-particle-multiple-crazy-nonsense-generator funcione com uma banda ainda maior!"
+Agora mostrar kanas com 3 letras, mostrar intro de como capitalizar kanas
+aos poucos liberar todas as Kanas possiveis de composição
+continuar com o esquema do checkdisk embaixo
+Estágio 3:
+"O reator de hiragana agora pode funcionar agora em 100% da sua produção!"
+gerar todas as hiraganas
+Estágio 4 até o 7:
+"Na verdade o reator estava gerando kanas individuais para aniquilação. Isso produz pouca energia, mas é o modo mais seguro."
+"Um jeito de produzir mais energia é gerar kanas mais pesadas, mas nesse caso, erros são mais graves, pois danificam mais o reator."
+Realizar progressão baseada em error rate, refazer todos os estágios até agora com kanas de pesos cada vez maiores. 
+Estágio 8 a 11:
+mesma coisa com Katakana
+Estágio 12:
+"Parabéns. Não esperávemos menos de você. Achamos que agora você finalmente está pronto para operar os 2 reatores ao mesmo tempo."
+"Sim, na verdade o anti-particle-multiple-crazy-nonsense-kana-generator produz ambas hiraganas e katakanas."
+"Em sua total funcionalidade ambas particulas serão geradas e precisamos de dela para o próximo passo."
+Você pergunta "próximo passo?"
+mostrar como alternar entre kanas
+Estágio 13:
+"Você ainda não está nível para passar para o estágio 13"
+Refazer todos os estágios anteriores com 3 estrelas no mínimo e maiores pesos de kanas.
+Pesos são 1, 10, 20 e 1000. 
+Mostra cut-scence: Switching controls to main reactor
+"Infelizmente o sistema está demorando mais tempo para iniciar do que imaginávamos" mostrar imagem do chkdsks reparando cluster..
+"Achávamos que a geração de kanas era totalmente aleatória, no entanto parece que ela tem algum nexo"
+"Ela representa conceitos conhecidos como KANJIs"
+Estágio 13 inicia com ENTER e espaço para escolher KANJIs. 
+Canhão diferente único
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Imaginar como fazer progressão para kanjis
+>>>>>>>>>>>>> provavelmente outro mini-game com multiplas leituras
+"Nossos AI-s estavam observando suas ações e o que nos parecia impossível, após muita observação de sua performance,"
+"Agora parece algo mecânico, e os AIs podem realizar esse trabalho sem problemas."
+" No entanto sabemos que seus conhecimentos não se limitam apenas a KANAS"
+"Como você sabe, da física, colisão de partículas maiores proporciona quantidades maiores de energia."
+"Essa é a energia dos KANJI"
+-------
+"Infelizmente não conseguimos colocar o sistema antigo no ar" mostrar mensagem corrupted filesystem files .... could not be recovered
+"Precisaremos de sua ajuda para treinar os AIs para realizar a fusão dos canhões principais também!"
+"O canhão auxiliar que você estava usando particiona os kanji em seus quarks elementarios, os KANA"
+"porém ao fazer isso perdemos grande parte da energia que o anti-particle-multiple-crazy-nonsense-rape-generator cria"
+"Precisamos de alguém que consiga ver o imaginatorama" (focar no painel lateral que mostrava os desenhos
+"E consiga supor que kanji será gerado."
+"Esse trabalho consiste em alternar entre a operação de 3 consoles"
+Console A:
+mostra o kanji e pergunta leituras
+"Leituras estão ordenadas por frequencia aproximada."
+"Leituras incomuns não adicionam energia extra ao reator se
+Console B:
+Console C:
+
+"Mas ainda há o limite da emição de energia pelos AIs que foram treinados na sua performance"
+"A qualquer momento você poderá aumentar essa energia voltando para os níveis anteriores e aumentando"
+"Kana production e kana speed"
